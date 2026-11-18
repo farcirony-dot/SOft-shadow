@@ -1,0 +1,6 @@
+{
+  "name": "Umbra - Realistic Soft Shadow Studio",
+  "description": "Convert PNG images into beautiful, realistic, soft monochromatic sunlight shadow artwork with batch processing, live comparison, and 300 DPI high-resolution export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
